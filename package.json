@@ -1,0 +1,22 @@
+{
+  "name": "@trevoreyre/notion",
+  "version": "0.0.1",
+  "description": "Simple SDK to render content from Notion API",
+  "keywords": [
+    "notion",
+    "api",
+    "renderer"
+  ],
+  "author": "Trevor Eyre <trevoreyre@gmail.com> (https://trevoreyre.com)",
+  "license": "MIT",
+  "repository": "trevoreyre/notion",
+  "bugs": "https://github.com/trevoreyre/notion/issues",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@notionhq/client": "^1.0.4",
+    "just-camel-case": "^6.0.1"
+  }
+}
