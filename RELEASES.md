@@ -2,11 +2,11 @@
 
 Release versions follow [Semver](https://semver.org/). To create a new release, use the following process.
 
-1. Commit and push changes on a feature branch, and create a pull request against `master`. Include updates to the `CHANGELOG`.
+1. Commit and push changes on a feature branch, and create a pull request against `main`. Include updates to the `CHANGELOG`.
 
-2. After merging changes, run `yarn run version` on `master` to increment version numbers and tag the release.
+2. After merging changes, run `yarn version` on `main` to increment version numbers and tag the release.
 
-3. If everything looks good, push tags to GitHub, `git push origin master --tags`
+3. If everything looks good, push tags to GitHub, `git push origin main --tags`
 
 4. In GitHub, create a release from the new tag in the following format.
 
