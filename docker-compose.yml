@@ -9,6 +9,6 @@ services:
       - .:/home/node/notion
       - /home/node/notion/node_modules
     ports:
-      - '3005:3005'
+      - '4300:4300'
     stdin_open: true
     tty: true
