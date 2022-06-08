@@ -1,6 +1,6 @@
 {
   "name": "@trevoreyre/notion",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Simple SDK to render content from Notion API",
   "keywords": [
     "notion",
